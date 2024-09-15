@@ -1,0 +1,3 @@
+Estas son las intrucciones para el equipo Tilinesfc:
+Dentro de nuestro código, hay una opción que ordena de menor a mayor los números que introduce el usuario; ahora, ustedes deben de crear
+una opción que vaya en el lugar que dice "esperando" y que en dicha opción, ahora ordene los números de mayor a menor.
